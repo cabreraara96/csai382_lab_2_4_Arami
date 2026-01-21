@@ -1,0 +1,14 @@
+2026-01-21 01:21:44,077 | INFO | ETL run started
+2026-01-21 01:21:44,078 | INFO | Cluster/runtime info: Databricks cluster XYZ
+2026-01-21 01:21:44,082 | INFO | Configuration values: CSV paths, output paths, etc.
+2026-01-21 01:21:59,172 | INFO | Received command c on object id p0
+2026-01-21 01:21:59,195 | INFO | Random seeds fixed
+2026-01-21 01:22:00,487 | INFO | Environment captured in requirements.txt
+2026-01-21 01:22:33,748 | INFO | Received command c on object id p0
+2026-01-21 01:22:53,941 | INFO | Received command c on object id p0
+2026-01-21 01:24:33,637 | INFO | Python Server ready to receive messages
+2026-01-21 01:24:33,638 | INFO | Received command c on object id p0
+2026-01-21 01:24:33,652 | INFO | Random seeds fixed
+2026-01-21 01:24:34,340 | INFO | Environment captured in requirements.txt
+2026-01-21 01:25:06,558 | INFO | Received command c on object id p0
+2026-01-21 01:25:06,592 | INFO | Random seeds fixed
